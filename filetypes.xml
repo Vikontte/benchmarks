@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="some" type="AUTO_DETECTED" />
+      <mapping pattern="еуче" type="AUTO_DETECTED" />
+      <mapping pattern="test1" type="AUTO_DETECTED" />
+      <mapping pattern="text" type="AUTO_DETECTED" />
+      <mapping pattern="VrButton" type="AUTO_DETECTED" />
+      <mapping pattern="BlurMeshMaterial.tsx" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="InstancedMesh.tsx" type="AUTO_DETECTED" />
+      <mapping pattern="VrButton.stories.tsx" type="AUTO_DETECTED" />
+      <mapping pattern="s" type="AUTO_DETECTED" />
+      <mapping pattern="chat" type="AUTO_DETECTED" />
+      <mapping pattern="text2" type="AUTO_DETECTED" />
+      <mapping ext="vert" type="AUTO_DETECTED" />
+      <mapping ext="woff" type="AUTO_DETECTED" />
+      <mapping ext="frag" type="C++" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <removed_mapping ext="frag" approved="true" type="GLSL shader file" />
+      <removed_mapping ext="vert" approved="true" type="GLSL shader file" />
+    </extensionMap>
+  </component>
+</application>
