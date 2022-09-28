@@ -16,6 +16,8 @@
       <mapping ext="vert" type="AUTO_DETECTED" />
       <mapping ext="woff" type="AUTO_DETECTED" />
       <mapping ext="frag" type="C++" />
+      <removed_mapping ext="frag" type="GLSL shader" />
+      <removed_mapping ext="vert" type="GLSL shader" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <removed_mapping ext="frag" approved="true" type="GLSL shader file" />
       <removed_mapping ext="vert" approved="true" type="GLSL shader file" />
